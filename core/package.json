@@ -1,0 +1,18 @@
+{
+  "name": "core",
+  "version": "0.0.0",
+  "description": "Redux Testing Framework",
+  "main": "index.tx",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "author": "Seth Lowie",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
